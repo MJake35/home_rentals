@@ -202,7 +202,7 @@ body {
 .title {
   font-size: 1.3em;
   font-weight: 700;
-  margin-left: 8%;
+  margin-left: 9%;
 }
 
 .title--sm {
@@ -392,7 +392,7 @@ body {
   .properties__top button {
     width: 200px;
     height: 65px;
-    margin-right: 8%;
+    margin-right: 9%;
   }
 }
 .properties__main {
