@@ -350,6 +350,7 @@ body {
   .hero__icons {
     place-content: center;
     gap: 4rem;
+    margin-left: 10%;
   }
 }
 .hero__icons figure img {
@@ -368,6 +369,7 @@ body {
   .hero__image img {
     width: 387px;
     height: 521px;
+    margin-left: 20%;
   }
 }
 
